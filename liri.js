@@ -12,14 +12,14 @@ function check() {
     //console.log (random)
 
     switch (choice) {
+        case "spotify-this-song":
+            music();
+            break;
         case "movie-this":
             movie();
             break;
         case "concert-this":
             concert();
-            break;
-        case "spotify-this-song":
-            music();
             break;
         case "do-what-it-says":
             readRandom()
