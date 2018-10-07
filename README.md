@@ -14,7 +14,8 @@ Liri is a *Language Interpretation and Recognition Interface*. This application 
 1. Search for a song:
    example: node liri.js spotify-this-song halo
 
-   (images/spotifycommandline)
+![alt text](images/spotifycommandline)
+   
 
 
 
