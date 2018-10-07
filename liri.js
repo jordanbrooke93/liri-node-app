@@ -7,8 +7,8 @@ var spotify = new Spotify(keys.spotify);
 var choice = process.argv[2]
 var argv= process.argv
 
-check()
-function check() {
+runIt()
+function runIt() {
     //console.log (random)
 
     switch (choice) {
