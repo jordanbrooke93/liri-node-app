@@ -10,7 +10,7 @@ Liri is a *Language Interpretation and Recognition Interface*. This application 
 
 The following files, along with npm packages and spotify keys that are hidden in a secret file, are what created this program and allow it to function:
 
-![Keys] (https://github.com/jordanbrooke93/liri-node-app/blob/master/keys.js)
+* [Keys] (https://github.com/jordanbrooke93/liri-node-app/blob/master/keys.js)
 https://github.com/jordanbrooke93/liri-node-app/blob/master/liri.js
 https://github.com/jordanbrooke93/liri-node-app/blob/master/random.txt
 
